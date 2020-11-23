@@ -3,7 +3,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defooma&show_icons=true" alt="florianwoelki" /></p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Defooma Mail**
+- 🔭 I’m currently working on **Europe-Community.eu Website**
 - 🌱 I’m currently learning **Vue and Node.js**
 - 🤔 I am looking for help with my projects (more information on my website)
 - 📫 How to reach me: **Email**
