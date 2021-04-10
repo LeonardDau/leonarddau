@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=defooma" alt="florianwoelki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=defooma" alt="defooma" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defooma&show_icons=true" alt="florianwoelki" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defooma&show_icons=true" alt="defooma" /></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Defooma.com**
