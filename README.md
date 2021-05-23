@@ -1,10 +1,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=defooma" alt="defooma" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defooma&show_icons=true&theme=dark" alt="defooma" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonarddau&show_icons=true&theme=dark" alt="defooma" /></p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Defooma.com**
-- 🌱 I’m currently learning **Vue and Node.js**
+- 🔭 I’m currently working on **Leonarddau.com**
+- 🌱 I’m currently learning **Vue, Nuxtjs and Typescript**
 - 🤔 I am looking for help with my projects (more information on my website)
 - 📫 How to reach me: **Email:** wasis@tuta.io
 -->
